@@ -32,7 +32,7 @@ The tidy data set contains 180 observations (30 subjects x 6 activities) of 68 v
   
 #### 2. Measurements
 
-The measurements in the tidy dataset are the computed average of the measurements in the original dataset for each activity and each subject. The table below list the measurements in the tidy dataset and the corresponding measurement in the original dataset that it is an average for. For more information on what the measurement in the original dataset is, please check out the references in the above section **Original Dataset**.
+The measurements in the tidy dataset are the computed average of selected measurements in the original dataset (i.e. those that are means and standard deviations of the features) for each activity and each subject. The table below list the measurements in the tidy dataset and the corresponding measurement in the original dataset that it is an average for. For more information on what the measurement in the original dataset is, please check out the references in the above section **Original Dataset**.
 
 Measurement in tidy dataset = | (Average per subject per activity of) Measurement in Original dataset  
 ---------------------------  | ---------------------------------
