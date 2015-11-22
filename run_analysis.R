@@ -43,7 +43,7 @@ selected_data$activity <- as.factor(selected_data$activity)
 levels(selected_data$activity) <- activity_label$V2
 
 ## Appropriately labels the data set with descriptive variable names.
-## Corrected the names that differs from the features_info i.e. those that have "BodyBody" instead of just one "Body"## 
+## Corrected the names that differs from the features_info i.e. those that have "BodyBody" instead of just one "Body" 
 ## Relabelling the variables to minimize use of symbols
 ## e.g. tBodyAccMean(X) instead of tBodyACC-mean()-X to refer to the mean of body acceleration at time t in direction X
 ## [Note: The difference in name also allows for differentiation between the raw data variables and the processed ones in step 5]
