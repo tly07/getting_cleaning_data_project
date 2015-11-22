@@ -3,6 +3,8 @@ title: "CodeBook for Getting and Cleaning Data Course Project"
 output: html_document
 ---
 
+# CodeBook for Getting and Cleaning Data Course Project
+
 This CodeBook summarises how the run_analysis.R script transformed the original dataset and the variables contained in the tidy data set.  
 
 ## Original Dataset
